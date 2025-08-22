@@ -1,4 +1,3 @@
-# TurretEye
 # TurretEye 🖼️
 
 **TurretEye** to nowoczesna przeglądarka zdjęć napisana w Pythonie z użyciem **Tkinter**, **CustomTkinter** i **tkinterDnD2**.  
