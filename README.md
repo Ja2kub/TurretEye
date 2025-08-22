@@ -14,7 +14,6 @@
 - 🔄 Cofnij / Ponów
 - 📂 Eksport zdjęć lub całych folderów do **PDF**
 - 🖼️ Pokaz slajdów
-- 🛠️ **Turret Mode** – tryb wieżyczki (śledzenie kursora, automatyczne powiększenie fragmentów obrazu)
 - 🖱️ Menu kontekstowe (stylizacja AI, obrót, pełny ekran, zapis)
 - 🖱️ Zoom (kółko myszy), panorama (LPM + przeciąganie)
 - ⌨️ Rozbudowany zestaw **skrótów klawiszowych** (F1 – panel pomocy)
