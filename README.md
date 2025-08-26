@@ -34,7 +34,8 @@
 | Alt + P            | Zapis obrazu do PDF                                                  |
 | Alt + I            | Eksport całego folderu do PDF                                        |
 | F10                | Pokaz slajdów (start/stop)                                           |
-| Ctrl + Z / Ctrl + Y| Cofnij / Ponów                                                        |
+| Ctrl + T           | Okno nawigacji (miniatury)                                           |
+| Ctrl + Z / Ctrl + Y| Cofnij / Ponów                                                       |
 | Ctrl + P           | Turret Mode (włącz/wyłącz)                                           |
 | PPM                | Menu kontekstowe                                                     |
 | Kółko myszy        | Zoom in / out                                                        |
