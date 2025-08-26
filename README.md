@@ -1,7 +1,7 @@
 # TurretEye 🖼️
 
 **TurretEye** to nowoczesna przeglądarka zdjęć napisana w Pythonie z użyciem **Tkinter**, **CustomTkinter** i **tkinterDnD2**.  
-Łączy prostotę z rozbudowanymi funkcjami, takimi jak eksport do PDF, tryb ciemny, pokaz slajdów czy specjalny „Turret Mode”.
+Łączy prostotę z rozbudowanymi funkcjami, takimi jak eksport do PDF, tryb ciemny czy pokaz slajdów.
 
 ---
 
